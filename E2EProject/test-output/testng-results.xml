@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[2 test]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18592" started-at="2019-02-12T17:25:38Z" finished-at="2019-02-12T17:25:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18592" started-at="2019-02-12T17:25:38Z" finished-at="2019-02-12T17:25:57Z">
+      <class name="Academy.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.HomePage@2638011]" name="initialize" is-config="true" duration-ms="11860" started-at="2019-02-12T12:25:38Z" finished-at="2019-02-12T12:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="loginPage()[pri:1, instance:Academy.HomePage@2638011]" name="loginPage" duration-ms="4042" started-at="2019-02-12T12:25:50Z" finished-at="2019-02-12T12:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="md715MenuTab()[pri:2, instance:Academy.HomePage@2638011]" name="md715MenuTab" duration-ms="672" started-at="2019-02-12T12:25:54Z" finished-at="2019-02-12T12:25:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2 test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- md715MenuTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Academy.HomePage@2638011]" name="tearDown" is-config="true" duration-ms="1974" started-at="2019-02-12T12:25:55Z" finished-at="2019-02-12T12:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
